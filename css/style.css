@@ -1,22 +1,24 @@
 * {
     margin: 0;
     font-family: verdana;
+    box-sizing: border-box;
 }
 
 .photo img {
     position: relative;
-    height: 70%;
-    width: auto;
+    height: auto;
+    width: 100%;
 
 }
 
-.photo p {
+.photo h1 {
     color: #FFF;
     text-transform: uppercase;
     text-align: right;
     position: absolute;
-    top: 0;
-    right: 0;
-    font-size: 30px;
+    top: 23%;
+    right: 7%;
+/*    font-size: 30px;*/
     font-weight: bold;
+    width: 100%;
 }

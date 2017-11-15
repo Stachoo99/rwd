@@ -1,0 +1,28 @@
+@media (min-width:1170px) {
+    .photo img {
+        width: 100%;
+        height: auto;
+    }
+
+    .photo h1 {
+        width: 90%;
+        height: auto;
+    }
+}
+
+@media (max-width:992px) {
+    .photo img {
+        width: 100%;
+        height: auto;
+        position: absolute;
+    }
+
+    #heading {
+        position: absolute;
+        text-align: center;
+        color: #000;
+        left: 26%;
+        margin-top: 10%;
+    }
+
+}
