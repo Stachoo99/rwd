@@ -1,0 +1,11 @@
+@media (max-width:992px) {
+    .photo img {
+        width: 50%;
+        height: auto;
+    }
+
+    .photo p {
+        width: 90%;
+        height: auto;
+    }
+}
